@@ -10,3 +10,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Interacted with a Base dApp
 - Performed additional token swap
 - Reviewed onchain activity
+## Day 3
+- Minted an NFT on Base
+- Sent a transaction between wallets
+- Explored a new Base protocol
