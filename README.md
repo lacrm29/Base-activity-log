@@ -14,3 +14,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Minted an NFT on Base
 - Sent a transaction between wallets
 - Explored a new Base protocol
+## Day 4
+- Used a different DEX on Base for token swap
+- Checked gas fees and transaction speed
+- Monitored wallet balances after swaps
