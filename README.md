@@ -18,3 +18,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Used a different DEX on Base for token swap
 - Checked gas fees and transaction speed
 - Monitored wallet balances after swaps
+## Day 5
+- Bridged small amount of ETH to Base
+- Tested another swap pair
+- Reviewed recent transactions on explorer
