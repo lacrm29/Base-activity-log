@@ -22,3 +22,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Bridged small amount of ETH to Base
 - Tested another swap pair
 - Reviewed recent transactions on explorer
+## Day 6
+- Interacted with a new Base dApp
+- Approved token spending for swaps
+- Verified contract interaction history
