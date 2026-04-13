@@ -26,3 +26,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Interacted with a new Base dApp
 - Approved token spending for swaps
 - Verified contract interaction history
+## Day 7
+- Minted another NFT on Base
+- Transferred tokens between wallets
+- Checked NFT metadata and ownership
