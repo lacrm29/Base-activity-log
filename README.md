@@ -30,3 +30,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Minted another NFT on Base
 - Transferred tokens between wallets
 - Checked NFT metadata and ownership
+- ## Day 8
+- Explored a newly launched Base project
+- Performed small test transactions
+- Observed network performance
