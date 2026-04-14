@@ -34,3 +34,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Explored a newly launched Base project
 - Performed small test transactions
 - Observed network performance
+## Day 9
+- Revisited previous dApps for additional interactions
+- Executed multiple small swaps
+- Reviewed transaction confirmations
