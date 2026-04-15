@@ -19,3 +19,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 6
 - Tested another swap pair with small amount
 - Observed gas fees during transaction
+## Day 7
+- Revisited previous dApps for repeated interaction
+- Verified transaction consistency
