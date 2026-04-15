@@ -16,3 +16,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 5
 - Interacted with a newly discovered Base dApp
 - Approved token usage for smart contract
+## Day 6
+- Tested another swap pair with small amount
+- Observed gas fees during transaction
