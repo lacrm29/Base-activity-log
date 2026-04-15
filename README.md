@@ -38,3 +38,7 @@ This repository is used to document daily onchain activity on the Base network.
 - Revisited previous dApps for additional interactions
 - Executed multiple small swaps
 - Reviewed transaction confirmations
+- ## Day 10
+- Sent transactions across different wallets
+- Checked token balances after transfers
+- Monitored activity consistency
