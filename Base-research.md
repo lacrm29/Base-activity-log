@@ -13,3 +13,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 4
 - Minted an NFT from a Base collection
 - Confirmed ownership and metadata
+## Day 5
+- Interacted with a newly discovered Base dApp
+- Approved token usage for smart contract
