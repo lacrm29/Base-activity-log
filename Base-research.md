@@ -10,3 +10,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 3
 - Sent tokens between two wallets
 - Reviewed balance updates after transfer
+## Day 4
+- Minted an NFT from a Base collection
+- Confirmed ownership and metadata
