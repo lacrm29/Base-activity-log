@@ -7,3 +7,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 2
 - Compared transaction speed during peak vs low activity
 - Noted no significant delays
+## Day 3
+- Sent tokens between wallets
+- Verified transaction finality and accuracy
