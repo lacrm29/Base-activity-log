@@ -13,3 +13,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 4
 - Performed small repeated transactions
 - Observed stable gas usage
+## Day 5
+- Tested transaction batching behavior manually
+- Confirmed sequential processing without issues
