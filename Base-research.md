@@ -22,3 +22,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 7
 - Revisited previous dApps for repeated interaction
 - Verified transaction consistency
+## Day 8
+- Explored Base ecosystem projects
+- Interacted with at least one new protocol
