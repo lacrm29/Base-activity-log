@@ -10,3 +10,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 3
 - Sent tokens between wallets
 - Verified transaction finality and accuracy
+## Day 4
+- Performed small repeated transactions
+- Observed stable gas usage
