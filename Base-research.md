@@ -25,3 +25,6 @@ This document tracks structured daily interactions and observations on the Base 
 ## Day 8
 - Explored Base ecosystem projects
 - Interacted with at least one new protocol
+## Day 9
+- Executed multiple small transactions
+- Monitored network responsiveness
