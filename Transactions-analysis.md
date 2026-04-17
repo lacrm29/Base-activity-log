@@ -19,3 +19,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 6
 - Interacted with multiple contracts in short time
 - Checked if network slows under rapid usage
+## Day 7
+- Repeated swap transactions
+- Verified confirmation time remained consistent
