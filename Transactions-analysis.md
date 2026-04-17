@@ -25,3 +25,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 8
 - Tested wallet-to-wallet transfers again
 - Observed balance updates were immediate
+## Day 9
+- Sent transactions using different tokens
+- Confirmed uniform behavior across assets
