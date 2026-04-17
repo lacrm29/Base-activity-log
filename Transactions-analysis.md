@@ -22,3 +22,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 7
 - Repeated swap transactions
 - Verified confirmation time remained consistent
+## Day 8
+- Tested wallet-to-wallet transfers again
+- Observed balance updates were immediate
