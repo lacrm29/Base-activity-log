@@ -16,3 +16,6 @@ This document focuses on transaction patterns, consistency, and behavior on the 
 ## Day 5
 - Tested transaction batching behavior manually
 - Confirmed sequential processing without issues
+## Day 6
+- Interacted with multiple contracts in short time
+- Checked if network slows under rapid usage
